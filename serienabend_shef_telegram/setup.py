@@ -18,7 +18,7 @@ def setup():
 
     config = {
         "bot_token": bot_token,
-        "chat_id": chat_id,
+        "chat_id": int(chat_id),
     }
 
     save_config(config)

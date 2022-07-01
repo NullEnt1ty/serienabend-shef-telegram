@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "serienabend-shef-telegram"
+version = "0.0.1"
+readme = "README.md"
+dependencies = [
+  "python-telegram-bot==20.0a2"
+]
+
+[project.scripts]
+serienabend-shef-telegram = "serienabend_shef_telegram.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["serienabend_shef_telegram*"]

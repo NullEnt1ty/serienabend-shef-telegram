@@ -27,3 +27,11 @@ WIP
 
 - serienabend_shef_telegram
   - Quellcode für das Hauptmodul
+
+## Projekt bauen
+
+Das Projekt kann mit folgendem Befehl gebaut werden:
+
+```shell
+python -m build
+```

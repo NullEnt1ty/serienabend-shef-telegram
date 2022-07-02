@@ -1,5 +1,9 @@
 # Serienabend Shef Telegram
 
+_Hey, random internet person! If you stumbled accross this project asking yourself wth this is: This is a project I
+created for me and my friends to find out who's gonna be the next chef on our weekly get together. The rest of this
+documentation is in german but feel free to steal as much code as you'd like! The project is licensed under MIT._
+
 Telegram-Bot für Serienabend Shef
 
 ## Dev-Setup

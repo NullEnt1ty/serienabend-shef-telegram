@@ -1,3 +1,7 @@
+# DEPRECATED
+
+The Telegram bot is now integrated in the main application. Please use https://github.com/NullEnt1ty/serienabend-shef.
+
 # Serienabend Shef Telegram
 
 _Hey, random internet person! If you stumbled accross this project asking yourself wth this is: This is a project I
